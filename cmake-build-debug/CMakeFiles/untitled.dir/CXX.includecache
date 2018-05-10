@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/i.davydov/CLionProjects/study_projects/желтый пояс/untitled/main.cpp
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+fcntl.h
+-
+sys/select.h
+-
+
